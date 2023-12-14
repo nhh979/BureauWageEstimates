@@ -1,7 +1,7 @@
 # BureauWageEstimates (In progress)
 
 ## Overview
-In this project, we will perform data cleaning and data exploring on the Occupational Employment and Wage Statistics (OEWS) data with SQL Server.
+In this project, we will perform data cleaning and data exploring on the Occupational Employment and Wage Statistics (OEWS) data with SQL Server.  
 The dataset can be found [here](https://www.bls.gov/oes/current/oes_nat.htm), containing wage estimates for over 800 occupations in all industry sectors, in metropolitan and nonmetropolitan areas, in every state and the District of Columbia.  
 
 ## Data Cleaning
